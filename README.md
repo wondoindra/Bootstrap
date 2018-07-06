@@ -1,7 +1,4 @@
 # Bootstrap Learning
 
 
-push test
-
-
-delete
+push test3
